@@ -1,4 +1,4 @@
-# Generate a docker for simple static webserver
+# Generate a docker for ts tcp segmenter
 # by Jordi Cenzano
 # VERSION               1.0.0
 
